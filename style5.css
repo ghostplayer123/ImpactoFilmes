@@ -5,18 +5,16 @@
 }
 
 .corpo{
-    background-image: linear-gradient(black,gray);
+    background-image: linear-gradient(darkslategrey,rgb(0, 0, 66));
 
 
 }
 .arrumar-corpo{
     display: grid;
-    grid-template-columns: 20% 20%;
-    justify-content: space-around;
-    margin-top: 100px;
+    grid-template-columns: 60% 40%;
+    margin-top: 101px; 
     font-size: 30px;
-    margin-left: 80px;
-    align-items: baseline;
+    margin-left: 300px;
     
 }
 .titulo{
@@ -24,12 +22,12 @@
     justify-content: center;
     font-size: 100px;
     background-color: black;
-    color: gray;
+    color: rgb(0, 0, 66);
 
 }
 .pe{
     margin-top: 118px;
-    background-color: gray;
+    
 }
 .serie{
     font-size: 80px;

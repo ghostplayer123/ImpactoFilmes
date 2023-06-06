@@ -5,7 +5,7 @@
 }
 
 .corpo{
-    background-image: linear-gradient(aquamarine,blue);
+    background-image: linear-gradient(cyan,blue);
     
 
 }
@@ -22,7 +22,7 @@
     justify-content: center;
     font-size: 100px;
     background-color: black;
-    color: aquamarine;
+    color: darkcyan;
 
 
 }
